@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate fullstack developer from Viet Nam 🇻🇳</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buiminhquang188" alt="buiminhquang188" /></a> </p>
 
